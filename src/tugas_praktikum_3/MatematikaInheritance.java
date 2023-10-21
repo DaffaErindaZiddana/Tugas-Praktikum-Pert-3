@@ -20,7 +20,7 @@ public class MatematikaInheritance {
         mtk.pertambahan(3, 2);
         mtk.pengurangan(10, 5);
         mtk.perkalian(4, 2);
-        mtk.pembagian(10, 02);
+        mtk.pembagian(10, 2);
         mtk.modulus(7, 3);
     }
     
