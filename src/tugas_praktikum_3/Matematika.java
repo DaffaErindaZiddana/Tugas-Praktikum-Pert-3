@@ -36,9 +36,5 @@ public class Matematika {
         return hasil;
     }
     
-    public int modulus(int a, int b){
-        int hasil = a % b;
-        System.out.println("Hasil : " + hasil);
-        return hasil;
-    }
+    
 }
