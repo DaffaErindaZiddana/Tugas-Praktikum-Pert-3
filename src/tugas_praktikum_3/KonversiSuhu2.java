@@ -11,7 +11,7 @@ package tugas_praktikum_3;
 public class KonversiSuhu2 extends KonversiSuhu{
     
     double fahrenheitToReamur(double f){
-        double rumus = 0.44444444444444444444444444444444 * (f - 32);
+        rumus = 0.44444444444444444444444444444444 * (f - 32);
         System.out.println("Fahrenheit -> Reamur = " + rumus + " R");
         return rumus;
     }
